@@ -26,3 +26,12 @@ http://127.0.0.1:8091/
 **project delusional.** One principle: skip centralised stablecoins for dapps. A compiler tag is not a dapp. SilverScript **v1.0.0** (9 Sep 2026) is a compiler. #234 still unmerged.
 
 Master file: [STP-KAS/kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file).
+
+---
+
+> **Standard disclaimer.** This GitHub, not the topic above.
+>
+> Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+>
+> Intern at https://sixpack.wtf/  
+> X: https://x.com/StppStp · GitHub: https://github.com/STP-KAS
